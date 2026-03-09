@@ -4,6 +4,7 @@ import { doc, getDoc, setDoc } from "firebase/firestore";
 import { auth, db, googleProvider, appleProvider } from "./firebase";
 
 // ── Styles ────────────────────────────────────────────────────────────────
+// eslint-disable-next-line no-unused-vars
 const s = {
   bg: "#F5EFE6", card: "#FDF8F2", accent: "#C17F3E",
   accentLight: "#E8C99A", text: "#3B2F1E", textMuted: "#8C7355",
