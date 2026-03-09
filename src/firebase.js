@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 // !! REPLACE these values with your own from the Firebase console !!
 // Instructions: https://console.firebase.google.com
 const firebaseConfig = {
-  apiKey: "REPLACE_WITH_YOUR_API_KEY",
-  authDomain: "REPLACE_WITH_YOUR_AUTH_DOMAIN",
-  projectId: "REPLACE_WITH_YOUR_PROJECT_ID",
-  storageBucket: "REPLACE_WITH_YOUR_STORAGE_BUCKET",
-  messagingSenderId: "REPLACE_WITH_YOUR_MESSAGING_SENDER_ID",
-  appId: "REPLACE_WITH_YOUR_APP_ID"
+  apiKey: "AIzaSyCQ1XkLt3o6SSdk4uIuddi4ZyZsuVGnT-w",
+  authDomain: "mindful-moment-b63dc.firebaseapp.com",
+  projectId: "mindful-moment-b63dc",
+  storageBucket: "mindful-moment-b63dc.firebasestorage.app",
+  messagingSenderId: "258266109626",
+  appId: "1:258266109626:web:cf6e3c93f39955cc051483"
 };
 
 const app = initializeApp(firebaseConfig);
